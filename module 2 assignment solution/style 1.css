@@ -43,7 +43,7 @@ div.ba {
 	margin: 0;
 	font-family: "helvetica", arial, sans-serif;
 	font-style: italic ; }
-@media (min-width:922px) {
+@media (min-width:992px) {
 	body > div {
 		float: left;
 		width: 31.17%;
