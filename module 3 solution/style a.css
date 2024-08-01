@@ -1,0 +1,50 @@
+h1 {
+	text-align: center;
+	font-family: 'lora', serif;
+	margin-top: 30px;
+	color: #fff;
+}
+* {
+	
+	
+}
+    
+#header-nav {
+	
+	text-align: center !important;
+	background-color: #555
+}
+#main-content {
+	padding: 25px;
+	color: #fff;
+	background: #222;
+	margin: 35px;
+	height: 1000px;
+	font-style: italic;
+}
+div.container {
+	position: relative;
+}
+div.navbar-header {
+	position: static;
+}
+div.container > div.navbar-header button.navbar-toggler {
+	position: absolute;
+	top: 85px;
+	right: 15px;
+    background-color: #fff;
+    border: 2px solid black;
+}
+ul.navbar-nav {
+	float: right;	
+	width: 100%;
+}
+li.nav-item {
+	text-transform: uppercase;
+	background: #eee;
+	border: 1px solid black;
+	font-family: 'oxygen', sans-serif;
+}
+div.container > div.navbsr-header button.navbar-toggler:hover {
+	background-color: #000;
+}
